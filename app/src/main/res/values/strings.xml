@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Github Repository</string>
+    <string name="avatar">Avatar</string>
+    <string-array name="sort_by">
+        <item>Stars</item>
+        <item>Forks</item>
+        <item>Updated</item>
+    </string-array>
+</resources>
